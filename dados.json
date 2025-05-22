@@ -1,1 +1,16 @@
-
+[
+  {
+    "nome": "JEFERSON DA SILVA SANTOS",
+    "cpf": "107.738.464-50",
+    "cep": "57312-110",
+    "cidade": "Arapiraca",
+    "bairro": "Santa Esmeralda",
+    "rua": "Rua José Augusto Pereira",
+    "telefone": "(82) 99915-8412",
+    "email": "djaxelf22@gmail.com",
+    "transporte": "Sim",
+    "vaga": "AUX. DE PREVENÇÃO E PERDA",
+    "arquivo": "https://raw.githubusercontent.com/PopularAtacarejo/VagasPopular/main/curriculos/1747937035059-OFERTA - 21.05.pdf",
+    "data": "2025-05-22T18:03:55.059Z"
+  }
+]

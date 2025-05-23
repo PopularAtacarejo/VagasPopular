@@ -348,5 +348,19 @@
     "vaga": "OPERADOR DE SUPERMERCADO",
     "arquivo": "https://raw.githubusercontent.com/PopularAtacarejo/VagasPopular/main/curriculos/1747968046819-curriculo Annalyce.pdf",
     "data": "2025-05-23T02:40:46.819Z"
+  },
+  {
+    "nome": "Teste",
+    "cpf": "444.545.454-45",
+    "cep": "57312-110",
+    "cidade": "Arapiraca",
+    "bairro": "Santa Esmeralda",
+    "rua": "Rua José Augusto Pereira",
+    "telefone": "(82) 97848-7512",
+    "email": "jefersonmarketingpopular@gmail.com",
+    "transporte": "Sim",
+    "vaga": "AUX. DE PREVENÇÃO E PERDA",
+    "arquivo": "https://raw.githubusercontent.com/PopularAtacarejo/VagasPopular/main/curriculos/1747999771817-Curiculo.pdf",
+    "data": "2025-05-23T11:29:31.817Z"
   }
 ]

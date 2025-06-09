@@ -2422,20 +2422,6 @@
     "arquivo": "https://raw.githubusercontent.com/PopularAtacarejo/VagasPopular/main/curriculos/1748381242147-inbound6189470994222613461.pdf"
   },
   {
-    "nome": "Daniel Moreira Gomes",
-    "cpf": "128.448.674-56",
-    "cep": "57308-285",
-    "cidade": "Arapiraca",
-    "bairro": "Planalto",
-    "rua": "Rua Júlio Ferreira da Silva",
-    "telefone": "(82) 99603-8239",
-    "email": "daniel17384516@gmail.com",
-    "transporte": "Sim",
-    "vaga": "REPOSITOR (A)",
-    "data": "2025-05-27T22:40:40.754Z",
-    "arquivo": "https://raw.githubusercontent.com/PopularAtacarejo/VagasPopular/main/curriculos/1748385640754-CURRÍCULO DANIEL.pdf"
-  },
-  {
     "nome": "José Francisco Rodrigues ",
     "cpf": "103.477.114-05",
     "cep": "57312-251",
@@ -3890,20 +3876,6 @@
     "vaga": "OPERADOR (A) DE CAIXA",
     "data": "2025-06-02T21:46:02.160Z",
     "arquivo": "https://raw.githubusercontent.com/PopularAtacarejo/VagasPopular/main/curriculos/1748900762160-inbound2383749844524616607.pdf"
-  },
-  {
-    "nome": "DANIEL MOREIRA GOMES",
-    "cpf": "128.448.674-56",
-    "cep": "57308-285",
-    "cidade": "Arapiraca",
-    "bairro": "Planalto",
-    "rua": "Rua Júlio Ferreira da Silva",
-    "telefone": "(82) 99603-8239",
-    "email": "daniel17384516@gmail.com",
-    "transporte": "Sim",
-    "vaga": "REPOSITOR (A)",
-    "data": "2025-06-03T12:08:36.140Z",
-    "arquivo": "https://raw.githubusercontent.com/PopularAtacarejo/VagasPopular/main/curriculos/1748952516140-CURRÍCULO DANIEL MOREIRA GOMES.pdf"
   },
   {
     "nome": "Alicia Vitória da Silva",
@@ -6312,5 +6284,19 @@
     "vaga": "AUX. DE PREVENÇÃO E PERDA",
     "data": "2025-06-09T22:12:22.731Z",
     "arquivo": "https://raw.githubusercontent.com/PopularAtacarejo/VagasPopular/main/curriculos/1749507142731-Currículo - Ana Paula da Silva .pdf"
+  },
+  {
+    "nome": "Daniel Moreira Gomes",
+    "cpf": "128.448.674-56",
+    "cep": "57308-285",
+    "cidade": "Arapiraca",
+    "bairro": "Planalto",
+    "rua": "Rua Júlio Ferreira da Silva",
+    "telefone": "(11) 93950-1954",
+    "email": "daniel17384516@gmail.com",
+    "transporte": "Sim",
+    "vaga": "REPOSITOR (A)",
+    "data": "2025-06-09T22:15:12.168Z",
+    "arquivo": "https://raw.githubusercontent.com/PopularAtacarejo/VagasPopular/main/curriculos/1749507312168-CURRÍCULO DANIEL MOREIRA GOMES.pdf"
   }
 ]

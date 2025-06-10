@@ -1,7 +1,6 @@
 require('dotenv').config();
 const fs = require('fs');
 const axios = require('axios');
-const path = require('path');
 
 const {
   GITHUB_USER,
@@ -38,17 +37,19 @@ async function deleteFile(filePath, nome = 'desconhecido') {
         branch: BRANCH
       }
     });
+    console.log(`Arquivo removido: ${filePath}`);
   }
 }
 
 async function limparCurriculos() {
-  const jsonPath = 'VagasPopular/dados.json';
+  const jsonPath = 'dados.json';
   let registros = [];
 
   try {
     const response = await githubApi.get(`/repos/${GITHUB_USER}/${REPO_NAME}/contents/${jsonPath}`);
     const content = Buffer.from(response.data.content, 'base64').toString();
     registros = JSON.parse(content);
+    console.log(`Total de registros carregados: ${registros.length}`);
   } catch (e) {
     console.log('dados.json não encontrado ou vazio. Nada a limpar.');
     return;
@@ -65,6 +66,7 @@ async function limparCurriculos() {
 
     if (vistos.has(chave) || diffMeses >= 2) {
       const caminhoGit = reg.arquivo.split(`/${BRANCH}/`)[1];
+      console.log(`Removendo registro duplicado ou antigo: ${reg.nome}, CPF: ${reg.cpf}, Vaga: ${reg.vaga}`);
       await deleteFile(caminhoGit, reg.nome);
     } else {
       finais.push(reg);
@@ -72,8 +74,8 @@ async function limparCurriculos() {
     }
   }
 
-  const localPath = './VagasPopular/dados.json';
   if (!fs.existsSync('./temp')) fs.mkdirSync('./temp');
+  const localPath = './temp/dados.json';
   fs.writeFileSync(localPath, JSON.stringify(finais, null, 2));
 
   const content = fs.readFileSync(localPath, { encoding: 'base64' });

@@ -42,7 +42,7 @@ async function deleteFile(filePath, nome = 'desconhecido') {
 }
 
 async function limparCurriculos() {
-  const jsonPath = 'dados.json';
+  const jsonPath = 'VagasPopular/dados.json';
   let registros = [];
 
   try {
@@ -72,7 +72,7 @@ async function limparCurriculos() {
     }
   }
 
-  const localPath = './temp/dados.json';
+  const localPath = './VagasPopular/dados.json';
   if (!fs.existsSync('./temp')) fs.mkdirSync('./temp');
   fs.writeFileSync(localPath, JSON.stringify(finais, null, 2));
 

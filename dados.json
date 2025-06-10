@@ -532,20 +532,6 @@
     "data": "2025-05-23T20:50:04.481Z"
   },
   {
-    "nome": "Maria jose da Silva ",
-    "cpf": "231.308.188-55",
-    "cep": "57310-485",
-    "cidade": "Arapiraca",
-    "bairro": "Brasiliana",
-    "rua": "Rua Zeferino Pedro da Silva 333",
-    "telefone": "(82) 99944-3249",
-    "email": "silvamaria47477@gmail.com",
-    "transporte": "Não",
-    "vaga": "AUXILIAR DE LIMPEZA",
-    "arquivo": "https://raw.githubusercontent.com/PopularAtacarejo/VagasPopular/main/curriculos/1748034489610-inbound5753649091278477356.pdf",
-    "data": "2025-05-23T21:08:09.610Z"
-  },
-  {
     "nome": "Kaio Pontes ",
     "cpf": "091.081.454-66",
     "cep": "57312-230",
@@ -586,20 +572,6 @@
     "vaga": "BALCONISTA DE PADARIA",
     "arquivo": "https://raw.githubusercontent.com/PopularAtacarejo/VagasPopular/main/curriculos/1748034884975-inbound5616177149955348957.pdf",
     "data": "2025-05-23T21:14:44.975Z"
-  },
-  {
-    "nome": "Maria jose da Silva ",
-    "cpf": "231.308.188-55",
-    "cep": "57310-485",
-    "cidade": "Arapiraca",
-    "bairro": "Brasiliana",
-    "rua": "Rua Zeferino Pedro da Silva333",
-    "telefone": "(82) 99944-3249",
-    "email": "silvamaria47477@gmail.com",
-    "transporte": "Não",
-    "vaga": "AUXILIAR DE LIMPEZA",
-    "arquivo": "https://raw.githubusercontent.com/PopularAtacarejo/VagasPopular/main/curriculos/1748035045567-inbound214322606826910205.pdf",
-    "data": "2025-05-23T21:17:25.567Z"
   },
   {
     "nome": "Bruno de Jesus Souza ",
@@ -1496,20 +1468,6 @@
     "vaga": "AUXILIAR DE LIMPEZA",
     "data": "2025-05-26T08:42:46.803Z",
     "arquivo": "https://raw.githubusercontent.com/PopularAtacarejo/VagasPopular/main/curriculos/1748248966806-inbound7581136121446072390.pdf"
-  },
-  {
-    "nome": "Maria jose da Silva ",
-    "cpf": "231.308.188-55",
-    "cep": "57310-485",
-    "cidade": "Arapiraca",
-    "bairro": "Brasiliana",
-    "rua": "Rua Zeferino Pedro da Silva 333",
-    "telefone": "(82) 99994-4324",
-    "email": "silvamaria47477@gmail.com",
-    "transporte": "Não",
-    "vaga": "AUXILIAR DE LIMPEZA",
-    "data": "2025-05-26T08:43:48.187Z",
-    "arquivo": "https://raw.githubusercontent.com/PopularAtacarejo/VagasPopular/main/curriculos/1748249028187-inbound2807516375689253052.pdf"
   },
   {
     "nome": "LAIRA DOS SANTOS DA SILVA",
@@ -6704,5 +6662,19 @@
     "vaga": "AUX. DE PREVENÇÃO E PERDA",
     "data": "2025-06-10T10:08:07.051Z",
     "arquivo": "https://raw.githubusercontent.com/PopularAtacarejo/VagasPopular/main/curriculos/1749550087051-B5381D82-777C-43C1-897F-E03CB8B59A10 2.pdf"
+  },
+  {
+    "nome": "Maria jose da Silva ",
+    "cpf": "231.308.188-55",
+    "cep": "57310-485",
+    "cidade": "Arapiraca",
+    "bairro": "Brasiliana",
+    "rua": "Rua Zeferino Pedro da Silva",
+    "telefone": "(82) 99944-3249",
+    "email": "silvamaria47477@gmail.com",
+    "transporte": "Não",
+    "vaga": "AUXILIAR DE LIMPEZA",
+    "data": "2025-06-10T10:18:40.766Z",
+    "arquivo": "https://raw.githubusercontent.com/PopularAtacarejo/VagasPopular/main/curriculos/1749550720766-inbound4849689135167773738.pdf"
   }
 ]

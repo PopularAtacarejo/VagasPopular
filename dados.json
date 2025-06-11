@@ -280,20 +280,6 @@
     "data": "2025-05-23T11:55:53.188Z"
   },
   {
-    "nome": "Davi Firmino da Silva ",
-    "cpf": "086.368.684-24",
-    "cep": "57303-281",
-    "cidade": "Arapiraca",
-    "bairro": "Boa Vista",
-    "rua": "Rua Fernando Lourenço",
-    "telefone": "(82) 9932-5962",
-    "email": "df96759@gmail.com",
-    "transporte": "Sim",
-    "vaga": "AUXILIAR DE PADEIRO",
-    "arquivo": "https://raw.githubusercontent.com/PopularAtacarejo/VagasPopular/main/curriculos/1748003574856-inbound2107500157394510545.pdf",
-    "data": "2025-05-23T12:32:54.856Z"
-  },
-  {
     "nome": "Grazielle Tavares da Silva ",
     "cpf": "170.546.464-52",
     "cep": "57309-162",
@@ -6158,5 +6144,19 @@
     "vaga": "REPOSITOR (A)",
     "data": "2025-06-11T11:35:52.234Z",
     "arquivo": "https://raw.githubusercontent.com/PopularAtacarejo/VagasPopular/main/curriculos/1749641752234-inbound8852571051100864463.pdf"
+  },
+  {
+    "nome": "Davi Firmino da Silva ",
+    "cpf": "086.368.684-24",
+    "cep": "57303-281",
+    "cidade": "Arapiraca",
+    "bairro": "Boa Vista",
+    "rua": "Rua Fernando Lourenço",
+    "telefone": "(82) 99932-5962",
+    "email": "df96759@gmail.com",
+    "transporte": "Sim",
+    "vaga": "AUXILIAR DE PADEIRO",
+    "data": "2025-06-11T11:37:19.776Z",
+    "arquivo": "https://raw.githubusercontent.com/PopularAtacarejo/VagasPopular/main/curriculos/1749641839776-inbound2940888406752532686.pdf"
   }
 ]

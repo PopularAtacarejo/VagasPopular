@@ -1162,20 +1162,6 @@
     "arquivo": "https://raw.githubusercontent.com/PopularAtacarejo/VagasPopular/main/curriculos/1748259466157-inbound3612877015132920666.pdf"
   },
   {
-    "nome": "Damiana dos Santos ",
-    "cpf": "712.802.314-32",
-    "cep": "57309-201",
-    "cidade": "Arapiraca",
-    "bairro": "Bom Sucesso",
-    "rua": "Rua Antonio José de Melo",
-    "telefone": "(82) 99646-2044",
-    "email": "damianasantos9905@gmail.com",
-    "transporte": "Sim",
-    "vaga": "AUXILIAR DE LIMPEZA",
-    "data": "2025-05-26T11:42:02.681Z",
-    "arquivo": "https://raw.githubusercontent.com/PopularAtacarejo/VagasPopular/main/curriculos/1748259722681-inbound3654107297612926184.pdf"
-  },
-  {
     "nome": "Allan Deyvson Lima",
     "cpf": "071.361.204-54",
     "cep": "57307-080",
@@ -6438,5 +6424,19 @@
     "vaga": "EMBALADOR (A)",
     "data": "2025-06-11T15:12:51.244Z",
     "arquivo": "https://raw.githubusercontent.com/PopularAtacarejo/VagasPopular/main/curriculos/1749654771244-inbound6263230526599056327.pdf"
+  },
+  {
+    "nome": "Damiana dos Santos ",
+    "cpf": "712.802.314-32",
+    "cep": "57309-215",
+    "cidade": "Arapiraca",
+    "bairro": "Bom Sucesso",
+    "rua": "Rua Ambrózio de Lima",
+    "telefone": "(82) 99646-2044",
+    "email": "damianasantos9905@gmail.com",
+    "transporte": "Sim",
+    "vaga": "AUXILIAR DE LIMPEZA",
+    "data": "2025-06-11T15:38:32.097Z",
+    "arquivo": "https://raw.githubusercontent.com/PopularAtacarejo/VagasPopular/main/curriculos/1749656312097-inbound9038622103595639340.pdf"
   }
 ]

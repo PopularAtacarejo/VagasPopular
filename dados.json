@@ -289,20 +289,6 @@
     "telefone": "(82) 9932-5962",
     "email": "df96759@gmail.com",
     "transporte": "Sim",
-    "vaga": "REPOSITOR (A)",
-    "arquivo": "https://raw.githubusercontent.com/PopularAtacarejo/VagasPopular/main/curriculos/1748003432066-inbound6301531150887964498.pdf",
-    "data": "2025-05-23T12:30:32.066Z"
-  },
-  {
-    "nome": "Davi Firmino da Silva ",
-    "cpf": "086.368.684-24",
-    "cep": "57303-281",
-    "cidade": "Arapiraca",
-    "bairro": "Boa Vista",
-    "rua": "Rua Fernando Lourenço",
-    "telefone": "(82) 9932-5962",
-    "email": "df96759@gmail.com",
-    "transporte": "Sim",
     "vaga": "AUXILIAR DE PADEIRO",
     "arquivo": "https://raw.githubusercontent.com/PopularAtacarejo/VagasPopular/main/curriculos/1748003574856-inbound2107500157394510545.pdf",
     "data": "2025-05-23T12:32:54.856Z"
@@ -6158,5 +6144,19 @@
     "vaga": "AUXILIAR DE LIMPEZA",
     "data": "2025-06-11T11:08:44.052Z",
     "arquivo": "https://raw.githubusercontent.com/PopularAtacarejo/VagasPopular/main/curriculos/1749640124052-inbound6007597065996343245.pdf"
+  },
+  {
+    "nome": "Davi Firmino da Silva ",
+    "cpf": "086.368.684-24",
+    "cep": "57303-281",
+    "cidade": "Arapiraca",
+    "bairro": "Boa Vista",
+    "rua": "Rua Fernando Lourenço",
+    "telefone": "(82) 99932-5962",
+    "email": "df96759@gmail.com",
+    "transporte": "Sim",
+    "vaga": "REPOSITOR (A)",
+    "data": "2025-06-11T11:35:52.234Z",
+    "arquivo": "https://raw.githubusercontent.com/PopularAtacarejo/VagasPopular/main/curriculos/1749641752234-inbound8852571051100864463.pdf"
   }
 ]

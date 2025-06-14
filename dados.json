@@ -1792,20 +1792,6 @@
     "arquivo": "https://raw.githubusercontent.com/PopularAtacarejo/VagasPopular/main/curriculos/1748367193179-inbound1241907135554290330.pdf"
   },
   {
-    "nome": "Maurilio Severino dos Santos ",
-    "cpf": "430.087.378-03",
-    "cep": "57315-112",
-    "cidade": "Arapiraca",
-    "bairro": "Senador Arnon de Melo",
-    "rua": "Rua Professora Maria Vilma Barbosa Lúcio",
-    "telefone": "(82) 99902-8228",
-    "email": "maurilioseverinodossantos436@gmail.com",
-    "transporte": "Sim",
-    "vaga": "REPOSITOR (A)",
-    "data": "2025-05-27T17:50:36.241Z",
-    "arquivo": "https://raw.githubusercontent.com/PopularAtacarejo/VagasPopular/main/curriculos/1748368236241-2025-05-20_204541.pdf"
-  },
-  {
     "nome": "José Fernando Costa Bezerra dos Santos ",
     "cpf": "104.403.084-45",
     "cep": "57303-751",
@@ -6648,5 +6634,19 @@
     "vaga": "OPERADOR (A) DE CAIXA",
     "data": "2025-06-14T12:42:30.777Z",
     "arquivo": "https://raw.githubusercontent.com/PopularAtacarejo/VagasPopular/main/curriculos/1749904950777-inbound8928840304221233840.pdf"
+  },
+  {
+    "nome": "Maurilio Severino dos Santos ",
+    "cpf": "430.087.378-03",
+    "cep": "57315-112",
+    "cidade": "Arapiraca",
+    "bairro": "Senador Arnon de Melo",
+    "rua": "Rua Professora Maria Vilma Barbosa Lúcio",
+    "telefone": "(82) 99902-8228",
+    "email": "maurilioseverinodossantos436@gmail.com",
+    "transporte": "Sim",
+    "vaga": "REPOSITOR (A)",
+    "data": "2025-06-14T14:19:46.829Z",
+    "arquivo": "https://raw.githubusercontent.com/PopularAtacarejo/VagasPopular/main/curriculos/1749910786829-2025-05-20_204541.pdf"
   }
 ]
